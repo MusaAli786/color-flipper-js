@@ -1,0 +1,28 @@
+.main{
+   text-align: center;
+   margin-top: 220px;
+   width: 240px;
+   height: 240px;
+}
+.backgroundColor{
+    background-color: black;
+    width: 400px;
+    height: 100px;
+    margin-left: 500px;
+    padding: 50px 0px 0px 0px;
+    font-size: 30px;
+    color: #fff;
+}
+.colorName{
+    color: greenyellow;
+}
+.button{
+    margin: 15px 0px 0px 630px;
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: #fff;
+    border-radius: 10px;
+}
